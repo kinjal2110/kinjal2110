@@ -22,4 +22,13 @@ I'm a software engineer who is passionate about learn new things and explore on 
   <a href="https://in.pinterest.com/kinjalsuryavanshi/_saved/"><img src="https://img.shields.io/badge/Pinterest-E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a>
 </p>
 
+<br>
 
+## ✨ Repos:
+
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kinjal2110&repo=car_animation)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kinjal2110&repo=Twitter.Tweepy.Bot)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kinjal2110&repo=Next_Step)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kinjal2110&repo=BuyUcoin.Task)
+
+<br>
