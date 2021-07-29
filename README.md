@@ -79,8 +79,14 @@ I'm a software engineer who is passionate about learn new things and explore on 
         &nbsp;&nbsp;
             <tr><a href="#"><img alt="Android Studio" title="Android Studio" height="28px"
                         src="https://i.imgur.com/6nJGNMN.png" /></a></tr>
- 
     </tbody>
 </table>
-
 <br>
+
+
+## 📈 Github Stats
+
+
+<a href="https://github.com/kinjal2110/github-readme-stats"><img alt="Vijay-Kumavat's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kinjal2110&show_icons=true&count_private=true&hide=" /></a>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kinjal2110&layout=compact)
