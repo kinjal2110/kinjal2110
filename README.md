@@ -1,4 +1,4 @@
-# Hi, I'm Kinjal Suryavanshi 👋🏾 👩🏾‍💻
+# Hi, I'm Kinjal Suryavanshi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> 👩🏾‍💻
 
 I'm a software engineer who is passionate about learn new things and explore on them✨  Some technologies I enjoy working with include PHP, Python, wordpress, laravel framwork and SQL. I recently was selected in the one technologies as a fresher <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community..
 
