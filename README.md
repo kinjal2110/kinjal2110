@@ -8,14 +8,13 @@ I'm a software engineer who is passionate about learn new things and explore on 
 <p  align="center">
   <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
 </p>
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on PHP developer
 - 🌱 I’m currently learning Laravel framework and SEO.
 - 💻 I'm a self-taught learner and self-motivated person.
 - 💬 Ask me about PHP,wordpress, SEO , jQuery and mySQL.
 - ⚡ Fun fact: An investment in knowledge pays the best interest.🔥
-- 📫 How to reach me: 
+&nbsp; &nbsp;&nbsp;- 📫 How to reach me: 
 
 <p align="center">
 <a href="https://twitter.com/KinjalSuryavan2"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.linkedin.com/in/kinjal-suryavanshi-425867107/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://mailto:kumavatvijay776@gmail.com"><img src="https://img.shields.io/badge/gmail-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a> 
