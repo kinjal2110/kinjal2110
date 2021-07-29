@@ -12,7 +12,7 @@ I'm a software engineer who is passionate about learn new things and explore on 
 - 🔭 I’m currently working on PHP developer
 - 🌱 I’m currently learning Laravel framework and SEO.
 - 💻 I'm a self-taught learner and self-motivated person.
-- 💬 Ask me about PHP,wordpress, SEO , jQuery and mySQL.
+- 💬 Ask me about PHP,wordpress, bootstrap, jQuery and mySQL.
 - ⚡ Fun fact: An investment in knowledge pays the best interest.🔥
 - 📫 How to reach me: 
 
