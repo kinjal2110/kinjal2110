@@ -58,11 +58,9 @@ I'm a software engineer who is passionate about learn new things and explore on 
         &nbsp;&nbsp;
             <tr><a href="#"><img alt="C++" title="C++" height="28px"
                         src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /></a></tr>
-    &nbsp;&nbsp;
-
+        &nbsp;&nbsp;
             <tr><a href="#"><img alt="Java" title="Java" height="28px"
                         src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /></a></tr>
-
         &nbsp;&nbsp;
             <tr><a href="#"><img alt="SQL" title="SQL" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /></a> </tr>
