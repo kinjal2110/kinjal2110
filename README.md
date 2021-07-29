@@ -27,8 +27,8 @@ I'm a software engineer who is passionate about learn new things and explore on 
 ## ✨ Repos:
 
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kinjal2110&repo=car_animation)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kinjal2110&repo=Twitter.Tweepy.Bot)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kinjal2110&repo=Next_Step)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kinjal2110&repo=BuyUcoin.Task)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kinjal2110&repo=Desktop-Assistance)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kinjal2110&repo=Restaurant_management_system)
+
 
 <br>
