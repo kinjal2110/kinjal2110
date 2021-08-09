@@ -17,7 +17,7 @@ I'm a software engineer who is passionate about learn new things and explore on 
 - 📫 How to reach me: 
 
 <p align="center">
-<a href="https://twitter.com/KinjalSuryavan2"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.linkedin.com/in/kinjal-suryavanshi-425867107/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <a href="https://mailto:kumavatvijay776@gmail.com"><img src="https://img.shields.io/badge/gmail-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a> 
+<a href="https://twitter.com/KinjalSuryavan2"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"></a> <a href="https://www.linkedin.com/in/kinjal-suryavanshi-425867107/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a> <img src="https://img.shields.io/badge/gmail-c14438.svg?&style=for-the-badge&logo=gmail&logoColor=white"></a> 
   <a href="https://instagram.com/_.kinjal._21"><img src="https://img.shields.io/badge/instagram-8a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://in.pinterest.com/kinjalsuryavanshi/_saved/"><img src="https://img.shields.io/badge/Pinterest-E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"></a>
 </p>
